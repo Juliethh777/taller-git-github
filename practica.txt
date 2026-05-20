@@ -1,0 +1,7 @@
+Mi primera práctica con Git y GitHub.
+
+Carol_Peña
+Ing_Software
+20/05/2026
+
+SEstoy aprendiendo a usar control de versiones.
